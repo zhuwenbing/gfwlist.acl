@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2021-10-09T10:26:56.605449+08:00
+# Date: 2021-10-12T10:28:05.437811+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -3348,6 +3348,7 @@ hongmeimei\.com
 \.hornygamer\.com
 \.hornytrip\.com
 ^hornytrip\.com
+(^|\.)horrorporn\.com
 (^|\.)hotair\.com
 \.hotav\.tv
 \.hotels\.cn
