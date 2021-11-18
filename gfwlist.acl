@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2021-10-19T10:29:01.185758+08:00
+# Date: 2021-11-02T10:26:11.509559+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -462,6 +462,7 @@ share\.dmhy\.org
 (^|\.)livecoin\.net
 (^|\.)localbitcoins\.com
 (^|\.)mercatox\.com
+(^|\.)oanda\.com
 (^|\.)oex\.com
 (^|\.)okex\.com
 (^|\.)otcbtc\.com
@@ -1094,15 +1095,16 @@ zh\.uncyclopedia\.wikia\.com
 (^|\.)ja\.wikipedia\.org
 (^|\.)wikipedia\.org
 (^|\.)data\.flurry\.com
-page\.bid\.yahoo\.com
-tw\.bid\.yahoo\.com
-^tw\.bid\.yahoo\.com
-blogs\.yahoo\.co\.jp
+(^|\.)page\.bid\.yahoo\.com
+(^|\.)tw\.bid\.yahoo\.com
+(^|\.)auctions\.yahoo\.co\.jp
+(^|\.)blogs\.yahoo\.co\.jp
 (^|\.)search\.yahoo\.co\.jp
-hk\.yahoo\.com
-hk\.knowledge\.yahoo\.com
-tw\.money\.yahoo\.com
-hk\.myblog\.yahoo\.com
+(^|\.)buy\.yahoo\.com\.tw
+(^|\.)hk\.yahoo\.com
+(^|\.)hk\.knowledge\.yahoo\.com
+(^|\.)tw\.money\.yahoo\.com
+(^|\.)hk\.myblog\.yahoo\.com
 (^|\.)hk\.news\.yahoo\.com
 hk\.rd\.yahoo\.com
 meme\.yahoo\.com
@@ -2998,6 +3000,7 @@ gigporno\.ru
 \.git\.io
 (^|\.)git\.io
 ^softwaredownload\.gitbooks\.io
+(^|\.)raw\.githack\.com
 (^|\.)github\.blog
 (^|\.)github\.com
 \.github\.io
@@ -4419,6 +4422,7 @@ noodlevpn\.com
 \.norbulingka\.org
 nordvpn\.com
 (^|\.)nordvpn\.com
+(^|\.)notepad-plus-plus\.org
 (^|\.)novelasia\.com
 \.news\.now\.com
 ^news\.now\.com
@@ -5629,6 +5633,7 @@ thehousenews\.com
 (^|\.)thehun\.net
 \.theinitium\.com
 (^|\.)theinitium\.com
+(^|\.)themoviedb\.org
 \.thenewslens\.com
 (^|\.)thenewslens\.com
 \.thepiratebay\.org
@@ -5648,6 +5653,7 @@ thetibetconnection\.org
 (^|\.)thetibetpost\.com
 (^|\.)thetinhat\.com
 thetrotskymovie\.com
+(^|\.)thetvdb\.com
 thevivekspot\.com
 (^|\.)thewgo\.org
 \.theync\.com
@@ -6730,6 +6736,7 @@ yx51\.net
 (^|\.)yyjlymb\.xyz
 \.yzzk\.com
 (^|\.)yzzk\.com
+(^|\.)z-lib\.org
 zacebook\.com
 \.zalmos\.com
 (^|\.)zalmos\.com
@@ -6863,7 +6870,6 @@ ultrasurf
 (^|\.)matsu-nsa\.gov\.tw
 (^|\.)matsucc\.gov\.tw
 (^|\.)moe\.gov\.tw
-(^|\.)mvdis\.gov\.tw
 (^|\.)nankan\.gov\.tw
 (^|\.)ncree\.gov\.tw
 (^|\.)necoast-nsa\.gov\.tw
