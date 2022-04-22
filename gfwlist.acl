@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2022-03-27T10:44:11.045680+08:00
+# Date: 2022-04-22T11:43:58.012470+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -473,6 +473,7 @@ share\.dmhy\.org
 (^|\.)oex\.com
 (^|\.)okex\.com
 (^|\.)okx\.com
+(^|\.)opensea\.io
 (^|\.)otcbtc\.com
 (^|\.)paxful\.com
 (^|\.)poolin\.com
