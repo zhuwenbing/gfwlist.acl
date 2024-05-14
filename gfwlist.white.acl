@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2024-04-19T10:23:41.887910+08:00
+# Date: 2024-05-14T10:25:33.883389+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1989,6 +1989,7 @@ cdpwu\.org
 ^changsa\.net
 (^|\.)channelnewsasia\.com
 \.chapm25\.com
+(^|\.)chatgpt\.com
 \.chaturbate\.com
 (^|\.)chaturbate\.com
 \.chuang-yen\.org
