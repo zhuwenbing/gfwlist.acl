@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2024-05-14T10:25:33.883389+08:00
+# Date: 2024-05-31T10:29:14.126173+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1058,6 +1058,7 @@ cn\.nytstyle\.com
 (^|\.)twitter\.com
 (^|\.)twitter\.jp
 (^|\.)vine\.co
+(^|\.)x\.com
 (^|\.)gov\.taipei
 \.gov\.tw
 ^aiss\.anws\.gov\.tw
