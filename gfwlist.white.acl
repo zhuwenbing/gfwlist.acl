@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-03-05T10:52:45.526905+08:00
+# Date: 2025-03-06T10:53:25.705421+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -8,6 +8,7 @@
 
 [proxy_list]
 
+(^|\.)blogjav\.net
 (^|\.)zoominfo\.com
 (^|\.)ptwxz\.com
 (^|\.)miuipolska\.pl
@@ -68,7 +69,6 @@
 (^|\.)dish\.com
 ^img\.dlsite\.jp$
 (^|\.)dm530\.net
-share\.dmhy\.org
 (^|\.)dmhy\.org
 (^|\.)dmm\.co\.jp
 (^|\.)dnvod\.tv
@@ -406,6 +406,7 @@ share\.dmhy\.org
 (^|\.)cdn\.seatguru\.com
 (^|\.)secure\.raxcdn\.com
 (^|\.)redd\.it
+(^|\.)redditspace\.com
 (^|\.)reddit\.com
 \.redditlist\.com
 ^redditlist\.com
@@ -566,8 +567,9 @@ china-mmm\.sa\.com
 (^|\.)mastodon\.online
 \.allowed\.org
 \.now\.im
+(^|\.)payments-jp\.amazon\.com
 (^|\.)amazon\.co\.jp
-s3-ap-northeast-1\.amazonaws\.com
+(^|\.)s3-ap-.+\.amazonaws\.com
 (^|\.)aolchannels\.aol\.com
 video\.aol\.com
 (^|\.)video\.aol\.com
@@ -822,7 +824,20 @@ bloomberg\.de
 (^|\.)hongkong\.fandom\.com
 \.ftchinese\.com
 (^|\.)ftchinese\.com
+(^|\.)doc\.new
+(^|\.)form\.new
+(^|\.)forms\.new
+(^|\.)sheet\.new
+(^|\.)sheets\.new
+(^|\.)spreadsheet\.new
+(^|\.)site\.new
+(^|\.)sites\.new
+(^|\.)website\.new
+(^|\.)slides\.new
+(^|\.)deck\.new
+(^|\.)presentation\.new
 (^|\.)translate\.googleapis\.com
+(^|\.)maps\.googleapis\.com
 (^|\.)1e100\.net
 (^|\.)466453\.com
 (^|\.)abc\.xyz
@@ -1219,6 +1234,7 @@ wikinews\.org
 (^|\.)wiktionary\.org
 (^|\.)wikipedia\.org
 (^|\.)wmfusercontent\.org
+(^|\.)shopping\.yahoo\.co\.jp
 (^|\.)auctions\.yahoo\.co\.jp
 (^|\.)blogs\.yahoo\.co\.jp
 (^|\.)search\.yahoo\.co\.jp
@@ -1226,6 +1242,7 @@ wikinews\.org
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
 (^|\.)duckduckgo-owned-server\.yahoo\.net
+(^|\.)2049bbs\.xyz
 (^|\.)611study\.com
 (^|\.)18comic\.org
 (^|\.)000webhost\.com
@@ -1366,6 +1383,7 @@ taiwannation\.50webs\.com
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)aljazeera\.com
 (^|\.)akinator\.com
 (^|\.)annas-archive\.org
 (^|\.)av01\.tv
@@ -1621,7 +1639,6 @@ asg\.to
 atgfw\.org
 \.atlaspost\.com
 (^|\.)atlaspost\.com
-(^|\.)atdmt\.com
 \.atlanta168\.com
 (^|\.)atlanta168\.com
 \.atnext\.com
@@ -1654,6 +1671,8 @@ azerimix\.com
 (^|\.)azirevpn\.com
 boxun.+\.azurewebsites\.net
 (^|\.)boxun.+\.azurewebsites\.net
+(^|\.)btbtt\.me
+(^|\.)btbtt\.co
 (^|\.)btbit\.net
 (^|\.)betaclouds\.net
 (^|\.)blocktempo\.com
@@ -1947,6 +1966,9 @@ busytrade\.com
 bwsj\.hk
 (^|\.)bx\.tl
 (^|\.)bypasscensorship\.org
+(^|\.)cixiaoya\.club
+(^|\.)campaign-archive\.com
+(^|\.)chinauncensored\.tv
 (^|\.)catbox\.moe
 (^|\.)crosswall\.org
 (^|\.)clipconverter\.cc
@@ -2385,6 +2407,7 @@ cytode\.us
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)ddex\.io
 (^|\.)d\.cash
 (^|\.)doubiyunbackup\.com
 (^|\.)cloud\.dify\.ai
@@ -2503,7 +2526,7 @@ dharmakara\.net
 \.discuss\.com\.hk
 (^|\.)discuss\.com\.hk
 \.discuss4u\.com
-disp\.cc
+(^|\.)disp\.cc
 \.disqus\.com
 (^|\.)disqus\.com
 \.dit-inc\.us
@@ -2618,8 +2641,10 @@ xys\.dxiong\.com
 (^|\.)dynawebinc\.com
 (^|\.)dysfz\.cc
 \.dzze\.com
+(^|\.)edx-cdn\.org
+(^|\.)everipedia\.org
 (^|\.)epochtimes\.com\.tw
-(^|\.)cn\.etherscan\.com
+(^|\.)etherscan\.com
 (^|\.)elconfidencial\.com
 (^|\.)e-classical\.com\.tw
 (^|\.)e-gold\.com
@@ -2784,6 +2809,7 @@ eyevio\.jp
 \.eyny\.com
 (^|\.)eyny\.com
 \.ezpeer\.com
+(^|\.)fuchsia\.dev
 (^|\.)freess\.org
 (^|\.)fril\.jp
 (^|\.)free\.com\.tw
@@ -3646,6 +3672,7 @@ hxwq\.org
 (^|\.)hypothes\.is
 ebook\.hyread\.com\.tw
 (^|\.)ebook\.hyread\.com\.tw
+(^|\.)invidio\.us
 (^|\.)improd\.works
 (^|\.)illawarramercury\.com\.au
 (^|\.)imago-images\.com
@@ -3860,6 +3887,7 @@ ithelp\.ithome\.com\.tw
 (^|\.)gmozomg\.izihost\.org
 \.izles\.net
 \.izlesem\.org
+(^|\.)justmysockscn\.com
 (^|\.)justmysocks\.net
 (^|\.)jav321\.com
 (^|\.)javdb\.com
@@ -3967,6 +3995,7 @@ juziyue\.com
 (^|\.)jwmusic\.org
 (^|\.)cdn\.jwplayer\.com
 \.jyxf\.net
+(^|\.)kingkong\.com\.tw
 (^|\.)kanald\.com\.tr
 (^|\.)kpkuang\.org
 (^|\.)k-doujin\.net
@@ -4076,6 +4105,7 @@ kyohk\.net
 (^|\.)kzaobao\.com
 \.kzeng\.info
 (^|\.)kzeng\.info
+(^|\.)ltn\.com\.tw
 (^|\.)litenews\.hk
 (^|\.)www\.lorenzetti\.com\.br
 (^|\.)linktr\.ee
@@ -4252,6 +4282,7 @@ lvhai\.org
 (^|\.)lzjscript\.com
 \.lzmtnews\.org
 (^|\.)lzmtnews\.org
+(^|\.)mergersandinquisitions\.com
 (^|\.)m\.moegirl\.org
 (^|\.)myjs\.tw
 (^|\.)mercari\.com
@@ -4550,6 +4581,7 @@ mysinablog\.com
 (^|\.)myspacecdn\.com
 \.mytalkbox\.com
 \.mytizi\.com
+(^|\.)nightswatch\.top
 (^|\.)nbyy\.tv
 (^|\.)newthuhole\.com
 (^|\.)naacoalition\.org
@@ -4749,6 +4781,7 @@ nylonstockingsonline\.com
 (^|\.)nypost\.com
 \.nzchinese\.com
 (^|\.)nzchinese\.net\.nz
+(^|\.)onevps\.com
 (^|\.)onedrive\.com
 (^|\.)olelive\.com
 (^|\.)oann\.com
@@ -4864,6 +4897,8 @@ bbs\.ozchinese\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)pandafan\.pub
+(^|\.)proxz\.com
 (^|\.)potatso\.com
 (^|\.)pendrivelinux\.com
 (^|\.)paimon\.moe
@@ -4978,19 +5013,7 @@ picturesocial\.com
 (^|\.)pinimg\.com
 \.pinkrod\.com
 (^|\.)pinoy-n\.com
-(^|\.)pinterest\.at
-(^|\.)pinterest\.ca
-(^|\.)pinterest\.co\.kr
-(^|\.)pinterest\.co\.uk
-\.pinterest\.com
-(^|\.)pinterest\.com
-(^|\.)pinterest\.com\.mx
-(^|\.)pinterest\.de
-(^|\.)pinterest\.dk
-(^|\.)pinterest\.fr
-(^|\.)pinterest\.jp
-(^|\.)pinterest\.nl
-(^|\.)pinterest\.se
+(^|\.)pinterest\..+
 \.pipii\.tv
 \.piposay\.com
 piraattilahti\.org
@@ -5176,6 +5199,7 @@ python\.com
 \.python\.com\.tw
 (^|\.)python\.com\.tw
 ss\.pythonic\.life
+(^|\.)qianmo\.tw
 \.qanote\.com
 (^|\.)qanote\.com
 (^|\.)qbittorrent\.org
@@ -5362,6 +5386,12 @@ rutube\.ru
 \.ruyiseek\.com
 \.rxhj\.net
 ^rxhj\.net
+(^|\.)ssrtool\.com
+(^|\.)ssrshare\.us
+(^|\.)secure\.shadowsocks\.nu
+(^|\.)synapse\.org
+(^|\.)south-plus\.net
+(^|\.)silvergatebank\.com
 (^|\.)share-videos\.se
 (^|\.)ssrshare\.us
 (^|\.)cdn\.statically\.io
@@ -5423,7 +5453,6 @@ savevid\.com
 (^|\.)scmp\.com
 \.scmpchinese\.com
 (^|\.)scramble\.io
-\.scribd\.com
 (^|\.)scribd\.com
 (^|\.)scriptspot\.com
 (^|\.)search\.com
@@ -5454,7 +5483,7 @@ sesawe\.net
 (^|\.)sesawe\.net
 \.sesawe\.org
 (^|\.)sethwklein\.net
-\.setn\.com
+(^|\.)setn\.com
 \.settv\.com\.tw
 forum\.setty\.com\.tw
 \.sevenload\.com
@@ -5550,6 +5579,7 @@ ch\.shvoong\.com
 (^|\.)simbolostwitter\.com
 simplecd\.org
 (^|\.)simplecd\.org
+(^|\.)simplecd\.me
 simpleproductivityblog\.com
 bbs\.sina\.com$
 bbs\.sina\.com%2F
@@ -5831,6 +5861,8 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
+(^|\.)tunein\.streamguys1\.com
+(^|\.)tou\.tv
 (^|\.)tinyurl\.com
 (^|\.)textnow\.com
 (^|\.)textnow\.me
@@ -6156,7 +6188,7 @@ tintuc101\.com
 ^tnp\.org
 \.to-porno\.com
 (^|\.)to-porno\.com
-togetter\.com
+(^|\.)togetter\.com
 \.tokyo-247\.com
 \.tokyo-hot\.com
 (^|\.)tokyo-porn-tube\.com
@@ -6539,6 +6571,8 @@ uyghur\.co\.uk
 (^|\.)uyghurtribunal\.com
 uygur\.org
 ^uymaarip\.com$
+(^|\.)vilanet\.me
+(^|\.)vewas\.net
 (^|\.)v2\.help
 (^|\.)vocaroo\.com
 (^|\.)vern\.cc
@@ -7277,7 +7311,7 @@ zyzc9\.com
 (^|\.)music\.jwmusic\.org
 (^|\.)www\.kodingen\.com
 (^|\.)openwrt\.org\.cn
-(^|\.)simplecd\.me
+(^|\.)pinterest\.cn
 (^|\.)static\.soup\.io
 (^|\.)www\.typepad\.com
 (^|\.)static\.typepad\.com
@@ -7296,6 +7330,10 @@ zyzc9\.com
 (^|\.)storage\.googleapis\.com
 (^|\.)update\.googleapis\.com
 (^|\.)safebrowsing\.googleapis\.com
+(^|\.)connectivitycheck\.gstatic\.com
+(^|\.)csi\.gstatic\.com
+(^|\.)fonts\.gstatic\.com
+(^|\.)ssl\.gstatic\.com
 (^|\.)haosou\.com
 (^|\.)ip\.cn
 (^|\.)jike\.com
