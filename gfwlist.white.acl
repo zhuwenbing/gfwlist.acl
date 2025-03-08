@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-03-06T10:53:25.705421+08:00
+# Date: 2025-03-08T10:27:42.010030+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -836,8 +836,7 @@ bloomberg\.de
 (^|\.)slides\.new
 (^|\.)deck\.new
 (^|\.)presentation\.new
-(^|\.)translate\.googleapis\.com
-(^|\.)maps\.googleapis\.com
+(^|\.)googleapis\.com
 (^|\.)1e100\.net
 (^|\.)466453\.com
 (^|\.)abc\.xyz
@@ -1242,6 +1241,7 @@ wikinews\.org
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
 (^|\.)duckduckgo-owned-server\.yahoo\.net
+(^|\.)69shuba\.cx
 (^|\.)2049bbs\.xyz
 (^|\.)611study\.com
 (^|\.)18comic\.org
@@ -2779,7 +2779,7 @@ etaiwannews\.com
 (^|\.)etizer\.org
 (^|\.)etokki\.com
 (^|\.)etsy\.com
-(^|\.).+\.ettoday\.net
+\.ettoday\.net
 etvonline\.hk
 \.eucasino\.com
 \.eulam\.com
@@ -2884,8 +2884,8 @@ fangeming\.com
 \.fanyue\.info
 \.farwestchina\.com
 en\.favotter\.net
-(^|\.).+\.global\.ssl\.fastly\.net
-(^|\.).+\.freetls\.fastly\.net
+\.global\.ssl\.fastly\.net
+\.freetls\.fastly\.net
 nytimes\.map\.fastly\.net
 (^|\.)nytimes\.map\.fastly\.net
 (^|\.)fast\.wistia\.com
@@ -3237,6 +3237,7 @@ gigporno\.ru
 \.github\.io
 (^|\.)github\.io
 (^|\.)githubusercontent\.com
+(^|\.)githubassets\.com
 \.gizlen\.net
 (^|\.)gizlen\.net
 \.gjczz\.com
@@ -4282,6 +4283,7 @@ lvhai\.org
 (^|\.)lzjscript\.com
 \.lzmtnews\.org
 (^|\.)lzmtnews\.org
+(^|\.)musixmatch\.com
 (^|\.)mergersandinquisitions\.com
 (^|\.)m\.moegirl\.org
 (^|\.)myjs\.tw
@@ -4897,6 +4899,7 @@ bbs\.ozchinese\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)polymarket\.com
 (^|\.)pandafan\.pub
 (^|\.)proxz\.com
 (^|\.)potatso\.com
@@ -6848,7 +6851,6 @@ wildammo\.com
 (^|\.)wikimapia\.org
 \.wikiwand\.com
 (^|\.)wikiwand\.com
-(^|\.)wikiwiki\.jp
 (^|\.)casino\.williamhill\.com
 (^|\.)sports\.williamhill\.com
 (^|\.)vegas\.williamhill\.com
@@ -7317,6 +7319,7 @@ zyzc9\.com
 (^|\.)static\.typepad\.com
 (^|\.)vpser\.net
 (^|\.)wallproxy\.com\.cn
+(^|\.)www\.ettoday\.net
 (^|\.)aliyun\.com
 (^|\.)baidu\.com
 (^|\.)chinaso\.com
