@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-03-08T10:27:42.010030+08:00
+# Date: 2025-03-09T10:31:17.822775+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -5864,6 +5864,7 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
+(^|\.)twkan\.com
 (^|\.)tunein\.streamguys1\.com
 (^|\.)tou\.tv
 (^|\.)tinyurl\.com

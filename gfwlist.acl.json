@@ -5856,6 +5856,7 @@
         "\\.sytes\\.net",
         "\\.szbbs\\.net",
         "\\.szetowah\\.org\\.hk",
+        "(^|\\.)twkan\\.com",
         "(^|\\.)tunein\\.streamguys1\\.com",
         "(^|\\.)tou\\.tv",
         "(^|\\.)tinyurl\\.com",
