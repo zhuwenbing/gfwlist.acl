@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-03-09T10:31:17.822775+08:00
+# Date: 2025-03-11T10:54:20.793878+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -190,7 +190,7 @@
 (^|\.)omni7\.jp
 (^|\.)onapp\.com
 (^|\.)ontrac\.com
-(^|\.)openai\.com
+(^|\.)chat\.openai\.com
 (^|\.)pandora\.com
 \.pandora\.tv
 (^|\.)parkansky\.com
@@ -216,7 +216,7 @@
 (^|\.)sm-miracle\.com
 (^|\.)softnology\.biz
 (^|\.)soylentnews\.org
-(^|\.)spotify\.com
+(^|\.)open\.spotify\.com
 (^|\.)spreadshirt\.es
 (^|\.)springboardplatform\.com
 (^|\.)sprite\.org
