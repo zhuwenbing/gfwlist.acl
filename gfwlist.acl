@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-03-17T09:15:54.252761+08:00
+# Date: 2025-03-23T11:01:36.331006+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -2882,7 +2882,7 @@ fail\.hk
 \.fan-qiang\.com
 \.fangbinxing\.com
 (^|\.)fangbinxing\.com
-fangeming\.com
+fangeming\.comffvpn\.com
 \.fangmincn\.org
 (^|\.)fangmincn\.org
 \.fanhaodang\.com
@@ -2890,28 +2890,18 @@ fangeming\.com
 (^|\.)fanswong\.com
 \.fanyue\.info
 \.farwestchina\.com
-en\.favotter\.net
-\.global\.ssl\.fastly\.net
-\.freetls\.fastly\.net
-nytimes\.map\.fastly\.net
+(^|\.)global\.ssl\.fastly\.net
+(^|\.)freetls\.fastly\.net
 (^|\.)nytimes\.map\.fastly\.net
-(^|\.)fast\.wistia\.com
 (^|\.)fastestvpn\.com
 (^|\.)fastssh\.com
 (^|\.)faststone\.org
-favstar\.fm
-(^|\.)favstar\.fm
+(^|\.)faydao\.com
 (^|\.)faz\.net
-\.fc2\.com
-\.fc2china\.com
-\.fc2cn\.com
 (^|\.)fc2cn\.com
-fc2blog\.net
 ^uygur\.fc2web\.com$
-video\.fdbox\.com
-\.fdc64\.de
-\.fdc64\.org
-\.fdc89\.jp
+(^|\.)fdc64\.de
+(^|\.)fdc64\.org
 (^|\.)fourface\.nodesnoop\.com
 (^|\.)feeder\.co
 (^|\.)feelssh\.com
@@ -2926,9 +2916,7 @@ feer\.com
 \.fengzhenghu\.net
 (^|\.)fengzhenghu\.net
 \.fevernet\.com
-^ff\.im
-fffff\.at
-fflick\.com
+(^|\.)ff\.im
 \.ffvpn\.com
 fgmtv\.net
 \.fgmtv\.org
