@@ -115,7 +115,7 @@ def main():
             "-",
         ],
         check=True,
-        input=note,
+        input=note.encode("utf-8"),
     )
 
 
