@@ -1,5 +1,6 @@
 {
     "blacklist": [
+        "(^|\\.)coincarp\\.com",
         "(^|\\.)blogjav\\.net",
         "(^|\\.)zoominfo\\.com",
         "(^|\\.)ptwxz\\.com",
@@ -750,6 +751,9 @@
         "\\.yourtrap\\.com",
         "\\.zyns\\.com",
         "\\.zzux\\.com",
+        "1.1.1.1",
+        "1.0.0.1",
+        "(^|\\.)one\\.one\\.one\\.one",
         "(^|\\.)cloudfront\\.net",
         "\\.3d-game\\.com",
         "\\.4irc\\.com",
@@ -3105,6 +3109,7 @@
         "fzh999\\.com",
         "fzh999\\.net",
         "fzlm\\.com",
+        "(^|\\.)gemini\\.com",
         "(^|\\.)getsession\\.org",
         "(^|\\.)gdaily\\.org",
         "(^|\\.)gfwatch\\.org",

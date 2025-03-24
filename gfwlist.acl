@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-03-23T11:01:36.331006+08:00
+# Date: 2025-03-24T10:27:31.826433+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -8,6 +8,7 @@
 
 [proxy_list]
 
+(^|\.)coincarp\.com
 (^|\.)blogjav\.net
 (^|\.)zoominfo\.com
 (^|\.)ptwxz\.com
@@ -758,6 +759,9 @@ bloomberg\.de
 \.yourtrap\.com
 \.zyns\.com
 \.zzux\.com
+1.1.1.1
+1.0.0.1
+(^|\.)one\.one\.one\.one
 (^|\.)cloudfront\.net
 \.3d-game\.com
 \.4irc\.com
@@ -3113,6 +3117,7 @@ funp\.com
 fzh999\.com
 fzh999\.net
 fzlm\.com
+(^|\.)gemini\.com
 (^|\.)getsession\.org
 (^|\.)gdaily\.org
 (^|\.)gfwatch\.org
