@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-03-24T10:27:31.826433+08:00
+# Date: 2025-04-05T10:56:00.818486+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -192,6 +192,7 @@
 (^|\.)onapp\.com
 (^|\.)ontrac\.com
 (^|\.)chat\.openai\.com
+(^|\.)auth\.openai\.com
 (^|\.)pandora\.com
 \.pandora\.tv
 (^|\.)parkansky\.com
@@ -4786,6 +4787,7 @@ nylonstockingsonline\.com
 (^|\.)nypost\.com
 \.nzchinese\.com
 (^|\.)nzchinese\.net\.nz
+(^|\.)opendesktop\.org
 (^|\.)onevps\.com
 (^|\.)onedrive\.com
 (^|\.)olelive\.com
