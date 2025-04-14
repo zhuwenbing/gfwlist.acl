@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-04-13T12:06:34.345484+08:00
+# Date: 2025-04-14T11:05:42.372211+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -764,6 +764,7 @@ bloomberg\.de
 1.1.1.1
 1.0.0.1
 (^|\.)one\.one\.one\.one
+(^|\.)cloudflare-dns\.com
 \.3d-game\.com
 \.4irc\.com
 \.b0ne\.com
@@ -1246,6 +1247,7 @@ wikinews\.org
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
 (^|\.)duckduckgo-owned-server\.yahoo\.net
+(^|\.)8888\.google
 (^|\.)2047\.one
 (^|\.)69shuba\.cx
 (^|\.)2049bbs\.xyz
@@ -2821,6 +2823,8 @@ eyevio\.jp
 \.eyny\.com
 (^|\.)eyny\.com
 \.ezpeer\.com
+(^|\.)fani\.com
+(^|\.)favcomic\.com
 (^|\.)factchecklab\.org
 (^|\.)ft\.com
 (^|\.)fuchsia\.dev
@@ -3382,6 +3386,8 @@ guruonline\.hk
 ^gvlib\.com
 \.gyalwarinpoche\.com
 \.gyatsostudio\.com
+(^|\.)v2\.hysteria\.network
+(^|\.)h-ciyuan\.com
 (^|\.)halktv\.com\.tr
 (^|\.)haiwaikan\.com
 (^|\.)home\.saxo
@@ -4287,6 +4293,7 @@ lvhai\.org
 (^|\.)lzjscript\.com
 \.lzmtnews\.org
 (^|\.)lzmtnews\.org
+(^|\.)manwa\.me
 (^|\.)musixmatch\.com
 (^|\.)mergersandinquisitions\.com
 (^|\.)m\.moegirl\.org
@@ -5396,6 +5403,9 @@ rutube\.ru
 \.ruyiseek\.com
 \.rxhj\.net
 ^rxhj\.net
+(^|\.)sing-box\.sagernet\.org
+(^|\.)ssm\.fun
+(^|\.)sotwe\.com
 (^|\.)soundon\.fm
 (^|\.)ssrtool\.com
 (^|\.)ssrshare\.us
@@ -5872,6 +5882,7 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
+(^|\.)thotsbay\.tv
 (^|\.)tg-me\.com
 (^|\.)twkan\.com
 (^|\.)tunein\.streamguys1\.com
