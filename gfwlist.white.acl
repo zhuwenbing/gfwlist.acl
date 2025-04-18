@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-04-14T11:05:42.372211+08:00
+# Date: 2025-04-18T10:59:31.136692+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1247,6 +1247,55 @@ wikinews\.org
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
 (^|\.)duckduckgo-owned-server\.yahoo\.net
+z-library\.sk
+go-to-library\.sk
+1lib\.cloud
+1lib\.sk
+italian-books\.sk
+1lib\.cz
+1lib\.domains
+1lib\.education
+1lib\.eu
+1lib\.limited
+1lib\.pl
+1lib\.to
+1lib\.tw
+2lib\.org
+3lib\.net
+art1lib\.com
+b-ok\.africa
+b-ok\.asia
+b-ok\.cc
+b-ok\.global
+b-ok\.org
+book4you\.org
+bookfi\.net
+booksc\.eu
+booksc\.me
+booksc\.org
+booksc\.xyz
+bookshome\.info
+bookshome\.net
+bookshome\.world
+de1lib\.org
+hk1lib\.org
+libsolutions\.app
+libsolutions\.domains
+libsolutions\.net
+ma1lib\.org
+sg1lib\.org
+singlelogin\.app
+singlelogin\.me
+singlelogin\.re
+singlelogin\.site
+z-lib\.org
+z-lib\.ps
+z-lib\.gd
+z-lib\.gs
+z-library\.se
+zlib\.life
+zlibcdn\.com
+zlibcdn2\.com
 (^|\.)8888\.google
 (^|\.)2047\.one
 (^|\.)69shuba\.cx
