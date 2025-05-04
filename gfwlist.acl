@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-04-25T11:04:40.030404+08:00
+# Date: 2025-05-04T11:15:32.619356+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -8,7 +8,6 @@
 
 [proxy_list]
 
-(^|\.)coincarp\.com
 (^|\.)blogjav\.net
 (^|\.)zoominfo\.com
 (^|\.)ptwxz\.com
@@ -191,8 +190,7 @@
 (^|\.)omni7\.jp
 (^|\.)onapp\.com
 (^|\.)ontrac\.com
-(^|\.)chat\.openai\.com
-(^|\.)auth\.openai\.com
+(^|\.)openai\.com
 (^|\.)pandora\.com
 \.pandora\.tv
 (^|\.)parkansky\.com
@@ -218,7 +216,7 @@
 (^|\.)sm-miracle\.com
 (^|\.)softnology\.biz
 (^|\.)soylentnews\.org
-(^|\.)open\.spotify\.com
+(^|\.)spotify\.com
 (^|\.)spreadshirt\.es
 (^|\.)springboardplatform\.com
 (^|\.)sprite\.org
@@ -306,7 +304,6 @@
 ^.+\.s3\.amazonaws\.com
 (^|\.)s3-ap-southeast-1\.amazonaws\.com
 (^|\.)s3-ap-southeast-2\.amazonaws\.com
-(^|\.)s3\.eu-central-1\.amazonaws\.com
 (^|\.)43110\.cf
 (^|\.)9cache\.com
 (^|\.)9gag\.com
@@ -761,10 +758,7 @@ bloomberg\.de
 \.yourtrap\.com
 \.zyns\.com
 \.zzux\.com
-1.1.1.1
-1.0.0.1
-(^|\.)one\.one\.one\.one
-(^|\.)cloudflare-dns\.com
+(^|\.)cloudfront\.net
 \.3d-game\.com
 \.4irc\.com
 \.b0ne\.com
@@ -1111,6 +1105,9 @@ cn\.nytstyle\.com
 (^|\.)store\.steampowered\.com
 (^|\.)api\.steampowered\.com
 (^|\.)steamstatic\.com
+(^|\.)tx\.me
+(^|\.)tg\.dev
+(^|\.)telega\.one
 (^|\.)cdn-telegram\.org
 (^|\.)comments\.app
 (^|\.)graph\.org
@@ -1247,56 +1244,6 @@ wikinews\.org
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
 (^|\.)duckduckgo-owned-server\.yahoo\.net
-z-library\.sk
-go-to-library\.sk
-1lib\.cloud
-1lib\.sk
-italian-books\.sk
-1lib\.cz
-1lib\.domains
-1lib\.education
-1lib\.eu
-1lib\.limited
-1lib\.pl
-1lib\.to
-1lib\.tw
-2lib\.org
-3lib\.net
-art1lib\.com
-b-ok\.africa
-b-ok\.asia
-b-ok\.cc
-b-ok\.global
-b-ok\.org
-book4you\.org
-bookfi\.net
-booksc\.eu
-booksc\.me
-booksc\.org
-booksc\.xyz
-bookshome\.info
-bookshome\.net
-bookshome\.world
-de1lib\.org
-hk1lib\.org
-libsolutions\.app
-libsolutions\.domains
-libsolutions\.net
-ma1lib\.org
-sg1lib\.org
-singlelogin\.app
-singlelogin\.me
-singlelogin\.re
-singlelogin\.site
-z-lib\.org
-z-lib\.ps
-z-lib\.gd
-z-lib\.gs
-z-library\.se
-zlib\.life
-zlibcdn\.com
-zlibcdn2\.com
-(^|\.)8888\.google
 (^|\.)2047\.one
 (^|\.)69shuba\.cx
 (^|\.)2049bbs\.xyz
@@ -1440,7 +1387,6 @@ taiwannation\.50webs\.com
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
-(^|\.)audiomack\.com
 (^|\.)aomedia\.org
 (^|\.)aljazeera\.com
 (^|\.)akinator\.com
@@ -2470,6 +2416,7 @@ cytode\.us
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)disneyplus\.com
 (^|\.)ddex\.io
 (^|\.)d\.cash
 (^|\.)doubiyunbackup\.com
@@ -2870,8 +2817,7 @@ eyevio\.jp
 \.eyny\.com
 (^|\.)eyny\.com
 \.ezpeer\.com
-(^|\.)fani\.com
-(^|\.)favcomic\.com
+(^|\.)fast\.com
 (^|\.)factchecklab\.org
 (^|\.)ft\.com
 (^|\.)fuchsia\.dev
@@ -2939,7 +2885,7 @@ fail\.hk
 \.fan-qiang\.com
 \.fangbinxing\.com
 (^|\.)fangbinxing\.com
-fangeming\.comffvpn\.com
+fangeming\.com
 \.fangmincn\.org
 (^|\.)fangmincn\.org
 \.fanhaodang\.com
@@ -2947,18 +2893,28 @@ fangeming\.comffvpn\.com
 (^|\.)fanswong\.com
 \.fanyue\.info
 \.farwestchina\.com
-(^|\.)global\.ssl\.fastly\.net
-(^|\.)freetls\.fastly\.net
+en\.favotter\.net
+\.global\.ssl\.fastly\.net
+\.freetls\.fastly\.net
+nytimes\.map\.fastly\.net
 (^|\.)nytimes\.map\.fastly\.net
+(^|\.)fast\.wistia\.com
 (^|\.)fastestvpn\.com
 (^|\.)fastssh\.com
 (^|\.)faststone\.org
-(^|\.)faydao\.com
+favstar\.fm
+(^|\.)favstar\.fm
 (^|\.)faz\.net
+\.fc2\.com
+\.fc2china\.com
+\.fc2cn\.com
 (^|\.)fc2cn\.com
+fc2blog\.net
 ^uygur\.fc2web\.com$
-(^|\.)fdc64\.de
-(^|\.)fdc64\.org
+video\.fdbox\.com
+\.fdc64\.de
+\.fdc64\.org
+\.fdc89\.jp
 (^|\.)fourface\.nodesnoop\.com
 (^|\.)feeder\.co
 (^|\.)feelssh\.com
@@ -2973,7 +2929,9 @@ feer\.com
 \.fengzhenghu\.net
 (^|\.)fengzhenghu\.net
 \.fevernet\.com
-(^|\.)ff\.im
+^ff\.im
+fffff\.at
+fflick\.com
 \.ffvpn\.com
 fgmtv\.net
 \.fgmtv\.org
@@ -3170,7 +3128,6 @@ funp\.com
 fzh999\.com
 fzh999\.net
 fzlm\.com
-(^|\.)gemini\.com
 (^|\.)getsession\.org
 (^|\.)gdaily\.org
 (^|\.)gfwatch\.org
@@ -3358,6 +3315,7 @@ good\.news
 (^|\.)gopetition\.com
 \.goproxing\.net
 (^|\.)goreforum\.com
+(^|\.)gotquestions\.org
 \.gotrusted\.com
 (^|\.)gotrusted\.com
 (^|\.)gotw\.ca
@@ -3433,8 +3391,7 @@ guruonline\.hk
 ^gvlib\.com
 \.gyalwarinpoche\.com
 \.gyatsostudio\.com
-(^|\.)v2\.hysteria\.network
-(^|\.)h-ciyuan\.com
+(^|\.)hanime1\.me
 (^|\.)halktv\.com\.tr
 (^|\.)haiwaikan\.com
 (^|\.)home\.saxo
@@ -3770,6 +3727,7 @@ idemocracy\.asia
 (^|\.)identi\.ca
 (^|\.)idiomconnection\.com
 ^www\.idlcoyote\.com
+(^|\.)idope\.se
 \.idouga\.com
 \.idreamx\.com
 forum\.idsam\.com
@@ -4340,8 +4298,8 @@ lvhai\.org
 (^|\.)lzjscript\.com
 \.lzmtnews\.org
 (^|\.)lzmtnews\.org
+(^|\.)missav\.ws
 (^|\.)news\.mt\.co\.kr
-(^|\.)manwa\.me
 (^|\.)musixmatch\.com
 (^|\.)mergersandinquisitions\.com
 (^|\.)m\.moegirl\.org
@@ -4642,6 +4600,7 @@ mysinablog\.com
 (^|\.)myspacecdn\.com
 \.mytalkbox\.com
 \.mytizi\.com
+(^|\.)nodeloc\.com
 (^|\.)netlify\.app
 (^|\.)nightswatch\.top
 (^|\.)nbyy\.tv
@@ -4843,7 +4802,6 @@ nylonstockingsonline\.com
 (^|\.)nypost\.com
 \.nzchinese\.com
 (^|\.)nzchinese\.net\.nz
-(^|\.)opendesktop\.org
 (^|\.)onevps\.com
 (^|\.)onedrive\.com
 (^|\.)olelive\.com
@@ -5302,7 +5260,6 @@ quantumbooter\.net
 qusi8\.net
 \.qvodzy\.org
 qxbbs\.org
-(^|\.)rutracker\.org
 (^|\.)r10s\.jp
 (^|\.)rakuten\.co\.jp
 (^|\.)r0\.ru
@@ -5448,13 +5405,12 @@ rukor\.org
 \.ruten\.com\.tw
 (^|\.)ruten\.com\.tw
 (^|\.)rutracker\.net
+(^|\.)rutracker\.org
 rutube\.ru
 \.ruyiseek\.com
 \.rxhj\.net
 ^rxhj\.net
-(^|\.)sing-box\.sagernet\.org
-(^|\.)ssm\.fun
-(^|\.)sotwe\.com
+(^|\.)simplex\.chat
 (^|\.)soundon\.fm
 (^|\.)ssrtool\.com
 (^|\.)ssrshare\.us
@@ -5882,6 +5838,7 @@ tw\.streetvoice\.com
 (^|\.)stumbleupon\.com
 stupidvideos\.com
 (^|\.)substack\.com
+(^|\.)subhd\.tv
 \.successfn\.com
 panamapapers\.sueddeutsche\.de
 \.sugarsync\.com
@@ -5931,7 +5888,8 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
-(^|\.)thotsbay\.tv
+(^|\.)tellapart\.com
+(^|\.)threads\.com
 (^|\.)tg-me\.com
 (^|\.)twkan\.com
 (^|\.)tunein\.streamguys1\.com
@@ -7214,6 +7172,7 @@ yx51\.net
 (^|\.)yysub\.net
 \.yzzk\.com
 (^|\.)yzzk\.com
+(^|\.)zodgame\.xyz
 (^|\.)zhongzidi\.com
 (^|\.)zooqle\.com
 (^|\.)z-lib\.io
