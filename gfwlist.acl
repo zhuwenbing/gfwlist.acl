@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-05-04T11:15:32.619356+08:00
+# Date: 2025-05-11T11:13:33.533951+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -758,6 +758,8 @@ bloomberg\.de
 \.yourtrap\.com
 \.zyns\.com
 \.zzux\.com
+(^|\.)workers\.dev
+(^|\.)one\.one\.one\.one
 (^|\.)cloudfront\.net
 \.3d-game\.com
 \.4irc\.com
@@ -824,6 +826,7 @@ bloomberg\.de
 (^|\.)hongkong\.fandom\.com
 \.ftchinese\.com
 (^|\.)ftchinese\.com
+(^|\.)play\.google
 (^|\.)doc\.new
 (^|\.)form\.new
 (^|\.)forms\.new
@@ -845,7 +848,6 @@ bloomberg\.de
 (^|\.)adsense\.com
 (^|\.)advertisercommunity\.com
 (^|\.)agoogleaday\.com
-(^|\.)ai\.google
 (^|\.)ampproject\.org
 (^|\.)android\.com
 (^|\.)androidify\.com
@@ -1244,6 +1246,8 @@ wikinews\.org
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
 (^|\.)duckduckgo-owned-server\.yahoo\.net
+(^|\.)i\.111666\.best
+(^|\.)1lib\.sk
 (^|\.)2047\.one
 (^|\.)69shuba\.cx
 (^|\.)2049bbs\.xyz
@@ -2416,6 +2420,7 @@ cytode\.us
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)docker\.io
 (^|\.)disneyplus\.com
 (^|\.)ddex\.io
 (^|\.)d\.cash
@@ -3128,6 +3133,7 @@ funp\.com
 fzh999\.com
 fzh999\.net
 fzlm\.com
+^gmp4\.com
 (^|\.)getsession\.org
 (^|\.)gdaily\.org
 (^|\.)gfwatch\.org
@@ -4918,6 +4924,7 @@ bbs\.ozchinese\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)puredns\.org
 (^|\.)polymarket\.com
 (^|\.)pandafan\.pub
 (^|\.)proxz\.com
@@ -5222,6 +5229,7 @@ python\.com
 \.python\.com\.tw
 (^|\.)python\.com\.tw
 ss\.pythonic\.life
+^qmp4\.com
 (^|\.)qianmo\.tw
 \.qanote\.com
 (^|\.)qanote\.com
@@ -5260,6 +5268,7 @@ quantumbooter\.net
 qusi8\.net
 \.qvodzy\.org
 qxbbs\.org
+(^|\.)rule34video\.com
 (^|\.)r10s\.jp
 (^|\.)rakuten\.co\.jp
 (^|\.)r0\.ru
@@ -5888,6 +5897,7 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
+(^|\.)rtm\.tnt-ea\.com
 (^|\.)tellapart\.com
 (^|\.)threads\.com
 (^|\.)tg-me\.com
@@ -6915,7 +6925,6 @@ wildammo\.com
 (^|\.)workatruna\.com
 (^|\.)workerdemo\.org\.hk
 (^|\.)workerempowerment\.org
-(^|\.)workers\.dev
 (^|\.)workersthebig\.net
 \.worldcat\.org
 worldjournal\.com
@@ -7172,6 +7181,11 @@ yx51\.net
 (^|\.)yysub\.net
 \.yzzk\.com
 (^|\.)yzzk\.com
+(^|\.)z-library\.sk
+(^|\.)z-lib\.fm
+(^|\.)z-lib\.gd
+(^|\.)z-lib\.gl
+(^|\.)z-lib\.fo
 (^|\.)zodgame\.xyz
 (^|\.)zhongzidi\.com
 (^|\.)zooqle\.com
