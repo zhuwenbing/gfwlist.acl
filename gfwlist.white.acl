@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-05-13T11:10:55.512205+08:00
+# Date: 2025-05-18T11:16:18.867990+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1132,6 +1132,7 @@ cn\.nytstyle\.com
 (^|\.)tiktokv\.us
 (^|\.)tiktokcdn-us\.com
 (^|\.)tiktokcdn\.com
+(^|\.)tiktokcdn-eu\.com
 (^|\.)jtvnw\.net
 (^|\.)ttvnw\.net
 (^|\.)twitch\.tv
@@ -2903,7 +2904,7 @@ fangeming\.com
 \.farwestchina\.com
 en\.favotter\.net
 \.global\.ssl\.fastly\.net
-\.freetls\.fastly\.net
+(^|\.)freetls\.fastly\.net
 nytimes\.map\.fastly\.net
 (^|\.)nytimes\.map\.fastly\.net
 (^|\.)fast\.wistia\.com
@@ -4130,6 +4131,8 @@ kyohk\.net
 (^|\.)kzaobao\.com
 \.kzeng\.info
 (^|\.)kzeng\.info
+(^|\.)ldplayer\.tw
+(^|\.)ldplayer\.net
 (^|\.)ltn\.com\.tw
 (^|\.)litenews\.hk
 (^|\.)www\.lorenzetti\.com\.br
@@ -4609,6 +4612,7 @@ mysinablog\.com
 (^|\.)myspacecdn\.com
 \.mytalkbox\.com
 \.mytizi\.com
+(^|\.)bbs\.naixi\.net
 (^|\.)nikke\.hotcool\.tw
 (^|\.)nikke-kr\.com
 (^|\.)nikke-jp\.com
@@ -5426,6 +5430,7 @@ rutube\.ru
 \.ruyiseek\.com
 \.rxhj\.net
 ^rxhj\.net
+(^|\.)sagernet\.org
 (^|\.)simplex\.chat
 (^|\.)soundon\.fm
 (^|\.)ssrtool\.com
