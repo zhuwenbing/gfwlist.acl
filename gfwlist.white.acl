@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-05-28T11:17:20.351411+08:00
+# Date: 2025-05-30T11:10:39.801246+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -311,8 +311,6 @@
 (^|\.)xn--ngstr-lra8j\.com
 (^|\.)abebooks\.com
 ^.+\.s3\.amazonaws\.com
-(^|\.)s3-ap-southeast-1\.amazonaws\.com
-(^|\.)s3-ap-southeast-2\.amazonaws\.com
 (^|\.)43110\.cf
 (^|\.)9cache\.com
 (^|\.)9gag\.com
@@ -580,6 +578,14 @@ china-mmm\.sa\.com
 (^|\.)payments-jp\.amazon\.com
 (^|\.)amazon\.co\.jp
 (^|\.)s3-ap-.+\.amazonaws\.com
+(^|\.)s3\.eu-central-1\.amazonaws\.com
+(^|\.)s3-eu-central-1\.amazonaws\.com
+(^|\.)s3\.us-east-1\.amazonaws\.com
+(^|\.)s3-ap-northeast-2\.amazonaws\.com
+(^|\.)s3\.ap-northeast-2\.amazonaws\.com
+(^|\.)s3-ap-northeast-1\.amazonaws\.com
+(^|\.)s3-ap-southeast-1\.amazonaws\.com
+(^|\.)s3-ap-southeast-2\.amazonaws\.com
 (^|\.)aolchannels\.aol\.com
 video\.aol\.com
 (^|\.)video\.aol\.com
@@ -836,7 +842,7 @@ bloomberg\.de
 (^|\.)hongkong\.fandom\.com
 \.ftchinese\.com
 (^|\.)ftchinese\.com
-(^|\.)google
+(^|\.).+\.google
 (^|\.)doc\.new
 (^|\.)form\.new
 (^|\.)forms\.new
