@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-05-30T11:10:39.801246+08:00
+# Date: 2025-05-31T11:09:32.052315+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1674,6 +1674,7 @@ azerimix\.com
 (^|\.)azirevpn\.com
 boxun.+\.azurewebsites\.net
 (^|\.)boxun.+\.azurewebsites\.net
+(^|\.)blackmagicdesign\.com
 (^|\.)bearteach\.com
 (^|\.)btbtt\.me
 (^|\.)btbtt\.co
