@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-06-02T11:20:09.272296+08:00
+# Date: 2025-06-05T11:15:05.586857+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -51,6 +51,7 @@
 (^|\.)centauro\.com\.br
 (^|\.)chobit\.cc
 (^|\.)ciciai\.com
+(^|\.)cici\.com
 (^|\.)claude\.ai
 (^|\.)clearsurance\.com
 (^|\.)cnbeta\.com\.tw
@@ -1388,6 +1389,7 @@ taiwannation\.50webs\.com
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)cdn\.arstechnica\.net
 (^|\.)aomedia\.org
 (^|\.)aljazeera\.com
 (^|\.)akinator\.com
