@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-06-07T10:02:43.097010+08:00
+# Date: 2025-06-12T11:15:05.926271+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -4126,6 +4126,7 @@ kyohk\.net
 (^|\.)kzaobao\.com
 \.kzeng\.info
 (^|\.)kzeng\.info
+(^|\.)lingualeo\.com
 (^|\.)ldplayer\.tw
 (^|\.)ldplayer\.net
 (^|\.)ltn\.com\.tw
