@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-06-17T11:16:55.838453+08:00
+# Date: 2025-06-18T11:15:39.549376+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -729,7 +729,6 @@ bloomberg\.de
 \.zzux\.com
 (^|\.)workers\.dev
 (^|\.)one\.one\.one\.one
-(^|\.)cloudfront\.net
 \.3d-game\.com
 \.4irc\.com
 \.b0ne\.com
@@ -1180,6 +1179,7 @@ zh\.uncyclopedia\.wikia\.com
 (^|\.)yahoo\.com\.tw
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
+(^|\.)ipfs\.4everland\.io
 (^|\.)91dasai\.com
 (^|\.)i\.111666\.best
 (^|\.)1lib\.sk
@@ -2234,6 +2234,7 @@ cyberghostvpn\.com
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)dweb\.link
 (^|\.)docker\.io
 (^|\.)disneyplus\.com
 (^|\.)ddex\.io
@@ -4162,6 +4163,7 @@ mysinablog\.com
 (^|\.)myspacecdn\.com
 \.mytalkbox\.com
 \.mytizi\.com
+(^|\.)nftstorage\.link
 (^|\.)newindianexpress\.com
 (^|\.)news18\.com
 (^|\.)bbs\.naixi\.net
@@ -4886,6 +4888,7 @@ rukor\.org
 rutube\.ru
 \.rxhj\.net
 ^rxhj\.net
+(^|\.)storry\.tv
 (^|\.)standard\.co\.uk
 (^|\.)sagernet\.org
 (^|\.)simplex\.chat
