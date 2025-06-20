@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-06-18T11:15:39.549376+08:00
+# Date: 2025-06-20T11:15:43.333042+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -2601,6 +2601,7 @@ eyevio\.jp
 \.eyny\.com
 (^|\.)eyny\.com
 \.ezpeer\.com
+(^|\.)forbes\.com
 (^|\.)financialexpress\.com
 (^|\.)fast\.com
 (^|\.)factchecklab\.org
