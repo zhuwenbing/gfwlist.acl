@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-06-23T11:25:13.361845+08:00
+# Date: 2025-06-27T11:18:37.437252+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1989,39 +1989,27 @@ cdp2006\.org
 (^|\.)chaturbate\.com
 \.chuang-yen\.org
 (^|\.)checkgfw\.com
-chengmingmag\.com
-\.chenguangcheng\.com
+(^|\.)chengmingmag\.com
 (^|\.)chenguangcheng\.com
-\.chenpokong\.com
 (^|\.)chenpokong\.com
 (^|\.)chenpokongvip\.com
 (^|\.)cherrysave\.com
-\.chhongbi\.org
-chicagoncmtv\.com
-^chicagoncmtv\.com
-\.china-week\.com
-china101\.com
+(^|\.)chhongbi\.org
+(^|\.)china-week\.com
 (^|\.)china101\.com
 (^|\.)china18\.org
 (^|\.)china21\.com
-china21\.org
 (^|\.)china21\.org
-\.china5000\.us
-chinaaffairs\.org
+(^|\.)china5000\.us
 (^|\.)chinaaffairs\.org
-chinaaid\.us
-chinaaid\.org
-chinaaid\.net
+(^|\.)chinaaid\.us
+(^|\.)chinaaid\.org
 (^|\.)chinaaid\.net
-\.chinachange\.org
 (^|\.)chinachange\.org
-chinachannel\.hk
 (^|\.)chinachannel\.hk
 (^|\.)chinademocrats\.org
-\.chinadialogue\.net
-\.chinadigitaltimes\.net
+(^|\.)chinadialogue\.net
 (^|\.)chinadigitaltimes\.net
-\.chinaelections\.org
 (^|\.)chinaelections\.org
 (^|\.)chinafile\.com
 (^|\.)chinafreepress\.org
@@ -2797,9 +2785,6 @@ tibetlibre\.free\.fr
 (^|\.)freedomhouse\.org
 \.freedomsherald\.org
 (^|\.)freedomsherald\.org
-\.freefq\.com
-\.freefuckvids\.com
-\.freegao\.com
 (^|\.)freegao\.com
 freeilhamtohti\.org
 (^|\.)freekazakhs\.org
@@ -4758,6 +4743,7 @@ qoos\.com
 \.quranexplorer\.com
 qusi8\.net
 qxbbs\.org
+(^|\.)radmin-vpn\.com
 (^|\.)rule34video\.com
 (^|\.)r10s\.jp
 (^|\.)rakuten\.co\.jp
