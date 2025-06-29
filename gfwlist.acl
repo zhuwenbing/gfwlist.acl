@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-06-28T11:13:06.398671+08:00
+# Date: 2025-06-29T11:28:01.917795+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -4439,6 +4439,7 @@ oyax\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)img\.picgo\.net
 (^|\.)pornmate\.com
 (^|\.)puredns\.org
 (^|\.)polymarket\.com
