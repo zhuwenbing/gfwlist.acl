@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-06-29T11:28:01.917795+08:00
+# Date: 2025-07-04T06:31:51.337626+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -2224,6 +2224,7 @@ cyberghostvpn\.com
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)doom9\.org
 (^|\.)dweb\.link
 (^|\.)docker\.io
 (^|\.)disneyplus\.com
