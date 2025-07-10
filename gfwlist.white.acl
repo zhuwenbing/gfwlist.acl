@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-07-04T06:31:51.337626+08:00
+# Date: 2025-07-10T11:21:06.858919+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -2433,6 +2433,7 @@ xys\.dxiong\.com
 (^|\.)dynawebinc\.com
 (^|\.)dysfz\.cc
 \.dzze\.com
+(^|\.)e621\.net
 (^|\.)edx-cdn\.org
 (^|\.)everipedia\.org
 (^|\.)epochtimes\.com\.tw
