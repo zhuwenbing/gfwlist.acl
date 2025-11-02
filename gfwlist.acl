@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-10-23T11:02:29.618020+08:00
+# Date: 2025-11-02T11:14:42.990743+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -5357,6 +5357,7 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
+(^|\.)temu\.com
 (^|\.)trustwallet\.com
 (^|\.)tap\.io
 (^|\.)taptap\.io
