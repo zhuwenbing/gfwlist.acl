@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-01-30T12:08:30.354676+08:00
+# Date: 2026-01-31T12:05:11.849775+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -6484,6 +6484,7 @@ xvideo\.cc
 ^xxxymovies\.com
 xys\.org
 xysblogs\.org
+(^|\.)yfsp\.tv
 (^|\.)youmind\.com
 (^|\.)yangzhi\.org
 (^|\.)storage\.yandex\.net
