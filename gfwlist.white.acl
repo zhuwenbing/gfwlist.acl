@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-04-06T12:44:14.287944+08:00
+# Date: 2026-04-08T05:52:53.001689+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -657,6 +657,7 @@ www\.aolnews\.com
 (^|\.)duck\.com
 (^|\.)feedburner\.com
 (^|\.)firebaseio\.com
+(^|\.)crashlytics\.com
 (^|\.)g\.co
 (^|\.)gcr\.io
 (^|\.)get\.app
@@ -4159,6 +4160,7 @@ iipdigital\.usembassy\.gov
 [bypass_list]
 
 (^|\.)www\.gov\.tw
+(^|\.)firebase-settings\.crashlytics\.com
 (^|\.)cn\.investing\.com
 (^|\.)www\.typepad\.com
 (^|\.)static\.typepad\.com
