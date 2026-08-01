@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-07-31T13:34:53.295806+08:00
+# Date: 2026-08-01T13:26:51.106413+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -2870,6 +2870,7 @@ iipdigital\.usembassy\.gov
 (^|\.)myparagliding\.com
 (^|\.)mypopescu\.com
 (^|\.)myspacecdn\.com
+(^|\.)nthlink\.com
 (^|\.)neodb\.social
 (^|\.)nfscofficial\.com
 (^|\.)nfsc\.press
