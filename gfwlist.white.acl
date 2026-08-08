@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-07-27T13:49:54.540930+08:00
+# Date: 2026-08-07T12:24:47.565570+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -672,8 +672,7 @@ www\.aolnews\.com
 (^|\.)threads\.net
 (^|\.)whatsapp\.com
 (^|\.)whatsapp\.net
-(^|\.)auntology\.fandom\.com
-(^|\.)hongkong\.fandom\.com
+(^|\.)fandom\.com
 (^|\.)ftchinese\.com
 (^|\.)google\.dev
 (^|\.)ai\.studio
@@ -1538,13 +1537,14 @@ iipdigital\.usembassy\.gov
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)cht\.com\.tw
+(^|\.)cerebras\.ai
 (^|\.)circle19\.org
 (^|\.)clashyun\.com
 (^|\.)chonglangtv\.org
 (^|\.)ctinsider\.com
 (^|\.)cia\.gov
 (^|\.)claude\.com
-(^|\.)www\.clashverge\.dev
 (^|\.)clementine-player\.org
 (^|\.)backend-v2\.crixet\.com
 (^|\.)cchostvps\.xyz
@@ -2618,6 +2618,7 @@ iipdigital\.usembassy\.gov
 (^|\.)kxsw\.life
 (^|\.)kzaobao\.com
 (^|\.)kzeng\.info
+(^|\.)level-plus\.net
 (^|\.)libgen\.is
 (^|\.)lemonde\.fr
 (^|\.)lantern\.io
@@ -2844,7 +2845,6 @@ iipdigital\.usembassy\.gov
 ^motherless\.com
 (^|\.)movements\.org
 (^|\.)moviefap\.com
-(^|\.)mozilla\.ai
 (^|\.)www\.moztw\.org
 (^|\.)mpettis\.com
 (^|\.)mpfinance\.com
@@ -2869,6 +2869,7 @@ iipdigital\.usembassy\.gov
 (^|\.)myparagliding\.com
 (^|\.)mypopescu\.com
 (^|\.)myspacecdn\.com
+(^|\.)nthlink\.com
 (^|\.)neodb\.social
 (^|\.)nfscofficial\.com
 (^|\.)nfsc\.press
@@ -3063,7 +3064,6 @@ iipdigital\.usembassy\.gov
 (^|\.)pancakeswap\.finance
 (^|\.)img\.picgo\.net
 (^|\.)pornmate\.com
-(^|\.)puredns\.org
 (^|\.)polymarket\.com
 (^|\.)pandafan\.pub
 (^|\.)proxz\.com
@@ -3258,7 +3258,6 @@ iipdigital\.usembassy\.gov
 (^|\.)rawstory\.com
 (^|\.)recordedfuture\.com
 (^|\.)roblox\.com
-(^|\.)radiojar\.com
 (^|\.)radio\.co
 (^|\.)rustdesk\.com
 (^|\.)rentry\.co
@@ -3364,7 +3363,6 @@ iipdigital\.usembassy\.gov
 (^|\.)swapspace\.co
 (^|\.)storry\.tv
 (^|\.)standard\.co\.uk
-(^|\.)sagernet\.org
 (^|\.)simplex\.chat
 (^|\.)soundon\.fm
 (^|\.)ssrtool\.com
@@ -3952,6 +3950,7 @@ iipdigital\.usembassy\.gov
 (^|\.)uyghurstudies\.org
 (^|\.)uyghurtribunal\.com
 ^uymaarip\.com$
+(^|\.)v\.recipes
 (^|\.)vox\.com
 (^|\.)vimeocdn\.com
 (^|\.)vpsxb\.net
