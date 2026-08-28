@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-08-24T11:01:38.496746+08:00
+# Date: 2026-08-28T21:49:53.814848+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -4043,6 +4043,7 @@ iipdigital\.usembassy\.gov
 (^|\.)vrchat\.com
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
+(^|\.)write\.as
 (^|\.)windy\.com
 (^|\.)washingtontimes\.com
 (^|\.)worldjournal\.com
