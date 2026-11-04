@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-10-31T16:00:54.645056+08:00
+# Date: 2026-11-04T09:59:21.470484+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1473,6 +1473,7 @@ iipdigital\.usembassy\.gov
 (^|\.)bigjapanesesex\.com
 (^|\.)bignews\.org
 (^|\.)bild\.de
+(^|\.)bilibili\.tv
 ^biliworld\.com
 ^bit\.do
 ^bit\.ly
